@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 ---
 
@@ -28,3 +29,6 @@
 ## 📜 License
 This project is open-source and free to use.  
 Feel free to fork and improve it 🚀
+=======
+# Tic-Tac-Toe
+>>>>>>> 2770fba894913bf08c3f40e7bdb39e54881941cf
